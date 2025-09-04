@@ -8,7 +8,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Monday 8th, 11pm**
 
 ### Rose
-
+- Our discussion via Zoom on Tuesday was a welcome one. 
 
 ### Thorn
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
