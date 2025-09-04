@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Monday 8th, 11pm**
 
 ### Rose
-
+Smells good.
 
 ### Thorn
-
+Pricked my finger.
 
 ### Bud
-
+Starting to grow.
 
 ---
 
@@ -22,11 +22,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
-
+I have no research, unfortunately. This is one more change.
 
 ---
 
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
-> **No Cohort discussion due this week**
+
+> **No Cohort discussion due this week** I was not invited anyway.
+
