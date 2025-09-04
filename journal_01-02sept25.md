@@ -9,6 +9,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ### Rose
 
+The sky is blue, I am hungry, and I want a break.
 
 ### Thorn
 
@@ -29,4 +30,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
