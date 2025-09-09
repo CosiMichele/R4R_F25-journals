@@ -19,9 +19,7 @@ Open version control system like “git” would be useful for collaborative res
 
 ## Research Application
 
-> [!IMPORTANT]
-> **Due Monday 8th, 11pm**
-
+I think the contents of this week would be fully applicable in my research areas, I can use git, to collaborate with other team members that will reduce the lagging time and will increase productivity. The version control is useful for data cleaning and management part. Now we can work simultaneously in the same script without hampering each other. The notebooklm was another resources which I feel is a great tool to apply in my research field, particularly when it is needed to find information from a particular reference article.
 
 ---
 
@@ -30,4 +28,5 @@ Open version control system like “git” would be useful for collaborative res
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
 
