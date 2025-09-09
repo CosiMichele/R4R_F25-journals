@@ -17,7 +17,7 @@ It would be good to know which are free and which are pocket friendly so that we
 How do we know which journals have an arrangement with UA so that we avoid publication costs?
 
 ### Bud
-I now know who to target for my publication. I will have one paper published in a subscriptional journal that is the top in my field and also focus on PLOS for other papers. 
+I now know who to target for my publication. I will have one paper published in a subscriptional journal that is the top in my field and also focus on PLOS for other papers where I can publish for free but also gain from the open science. 
 
 ---
 
@@ -34,4 +34,5 @@ I liked the conversation on Thursday about modeling. I am going to explore other
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
 
