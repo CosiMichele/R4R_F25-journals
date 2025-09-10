@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 10th, 11pm**
 
 ### Rose
-
+From the FOSS session I think the whole data management cycle is applicable to my research. Especially the FAIR and CARE principles are closely aligned with my research field. 
 
 ### Thorn
-
+I think interoperability is still challenging as some folks are comfortable with their operating system and software. However, open platforms like git can solve the problem. 
 
 ### Bud
-
+The DMP software is highly potential software that I would love to apply in my running and future research projects. 
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 18th, 11am**
