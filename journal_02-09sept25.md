@@ -8,18 +8,17 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 10th, 11pm**
 
 ### Rose
-
-
+-One item I enjoyed discussing amongst the cohort today was the different approach to data types.
 ### Thorn
-
-
+-One item that I encountered that I wish had gone better was our topics remaining focused, keeping side conversations for our group breakout.
 ### Bud
-
+I am looking forward to discussing our individual research topics in the breakout. 
 
 ---
 
 ## Research Application
 
+Given the nuance of the differentiated datasets I use, the topic of yesterday's meetup was quite insightful. 
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
 
@@ -29,4 +28,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 18th, 11am**
