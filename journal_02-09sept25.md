@@ -7,6 +7,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 > **Due Wednesday 10th, 11pm**
 
+I have learned the step by step instructions on how to work with it.
 ### Rose
 
 
@@ -29,4 +30,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 18th, 11am**
