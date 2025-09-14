@@ -22,7 +22,7 @@ One aspect that could be applied to my work is stronger advocacy for the use of 
 
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
-
+In last week’s R4R session, we covered Data Management Plans (DMPs) with Jim Martin and explored the DMP Tool. This topic and tool is highly applicable to my research, as DMPs provide structured guidance for handling data before, during, and after a project. In practice, DMPs are often used in grant proposals to outline data collection, storage, access, sharing, preservation, and reproducibility. While this is valuable, I believe DMPs should not be limited to grant-funded projects. In epidemiological research, students and early-career researchers are usually familiar with Statistical Analysis Plans (SAPs) or review protocols, but rarely with DMPs. This lack of exposure can leave them unprepared when applying for grants or conducting independent projects. I see value in encouraging young researchers to develop both SAPs and DMPs before starting any research, whether using primary or secondary data. For secondary datasets, DMPs help researchers assess existing data management practices, identify gaps, and make improvements. Similarly, qualitative researchers can integrate DMPs alongside review protocols to strengthen transparency and reproducibility. Introducing tools like the DMP Tool earlier in training would reduce overwhelm later and cultivate stronger data management practices across both quantitative and qualitative research.
 
 ---
 
@@ -31,3 +31,4 @@ One aspect that could be applied to my work is stronger advocacy for the use of 
 > [!IMPORTANT]
 
 > **Due Thursday 18th, 11am**
+The discussion focused on data management tools used by R4R cohort members and the challenges they faced when such practices were not applied early in their careers. Hearing about these lived research experiences in both quantitative and qualitative research further highlighted to me how essential data management is, not only for streamlining research but also for avoiding unnecessary hurdles. This reinforced the importance of integrating strong data management practices into my own work from the outset.
