@@ -19,7 +19,7 @@ The DMP software is highly potential software that I would love to apply in my r
 ---
 
 ## Research Application
-
+The DMP tool is the highly applicable tool in my field of research. The existing examples are good guide to prepare data management plan for my research projects. 
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
 
@@ -31,3 +31,4 @@ The DMP software is highly potential software that I would love to apply in my r
 > [!IMPORTANT]
 
 > **Due Thursday 18th, 11am**
+
