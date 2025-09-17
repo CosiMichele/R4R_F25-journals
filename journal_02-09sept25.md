@@ -17,13 +17,11 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 
 ---
-
 ## Research Application
 
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
-
-
+>I learned that the Data Management Plan (DMP) Tool is a valuable resource, especially now that many funding bodies require a DMP as partof grant applications. The tool provides structured templates where I can input relevant information, and it generates a downloadable DMP at the end. Although I am not currently applying for funding, understanding how the tool works is useful preparation for future research projects. Exploring the templates helped me identify the main components of a strong DMP, including the types of documentation and important questions that must be addressed. I also noticed that different organizations have specific requirements for their DMPs, which highlights the importance of tailoring each plan to the funder’s expectations.
 ---
 
 ## Cohort meetup discussion
@@ -31,3 +29,6 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 
 > **Due Thursday 18th, 11am**
+>At the cohort meeting, we discussed how public health researchers manage biases in their results. One main point raised was that comparing multiple samples can be an effective strategy to mitigate bias. We also explored methods for securely storing data. I concluded that adhering to the data storage requirements set by funders or sponsors is often the safest approach. Additionally, we discussed open data kit (ODK), a free and open-source suite of tools that enables organizations to collect, manage, and utilize data in resource-limited settings. Overall, it was a highly engaging and insightful session filled with valuable knowledge sharing.
+
+
