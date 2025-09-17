@@ -23,6 +23,8 @@ I could apply my knowledge about licenses to my work, as well as ensure that I n
 
 ## Research Application
 
+On Thursday we learned about the use of the DMP Tool. I think it was super insightful, given that my lab group works with NIH grants, and I don’t think they have knowledge of this tool. I believe it will facilitate my lab of existing or future projects.
+
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
 
@@ -31,6 +33,9 @@ I could apply my knowledge about licenses to my work, as well as ensure that I n
 
 ## Cohort meetup discussion
 
-> [!IMPORTANT]
+In our meeting we talked about different aspects of research, moving from data management tools like STATA, REDCap, and ODK, to queries of data security with systems such as Google Drive versus MESS. We also discussed combining qualitative and quantitative approaches, including the use of AI transcription for interviews and ways to englobe emotions. Participatory and creative methods came up too, like Photovoice, drawings, and storybooks to give voice to children, vulnerable groups, and people with disabilities. Ethical considerations such as IRB regulations and how funding sources affect publication were also part of the discussion.
+
+Particularly for my work, I think I would like to focus on the qualitative aspect, using the software that the cohort has used before. I also want to consider safer options for storing the data. In addition, I am thinking of combining not only the scientific approach but also the artistic viewpoint to present the findings in different ways, so I can reach a wider audience. 
 
 > **Due Thursday 18th, 11am**
+
