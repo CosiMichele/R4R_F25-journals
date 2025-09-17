@@ -26,6 +26,7 @@ Better documentation is something I know will save me significant time in the fu
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
 
+As someone who intends to be a professor, the weekly material is directly applicable to me because I will be responsible for searching for funding, and, as discussed, most funding agencies now require a data management plan (DMP). Even as a student, I was recently informed that I will be assisting my professor with a joint NIH grant with the College of Public Health. Thanks to Thursday’s discussion, I now feel confident in contributing not only by writing bios or helping with the proposal but also by providing information about relevant data. I also appreciated the discussion of my Thorn in class. Previously, I was confused about how PhD students are expected to know everything in their field; the session clarified that collaboration is key. As the speaker and Michele noted, the UA DMP tool allows for adding collaborators, so I can contribute knowledge about the data I am familiar with while supporting IT staff or other PhD students can fill in other areas. This collaborative approach will help create a more complete and effective data management plan.
 
 ---
 
@@ -34,3 +35,5 @@ Better documentation is something I know will save me significant time in the fu
 > [!IMPORTANT]
 
 > **Due Thursday 18th, 11am**
+
+I was unable to attend the cohort meetup as I have a class on Thursday from 1–4, which overlapped with the 1:30 start time. I will follow up with the cohort to catch up on the discussion.
