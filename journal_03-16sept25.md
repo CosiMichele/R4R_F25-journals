@@ -8,13 +8,15 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 17th, 11pm**
 
 ### Rose
-
+I think that once I learn how to enter commands in the terminal and understand what they are for, I could use the HPC to run my model for analyzing large datasets regarding pesticides. 
 
 ### Thorn
 
+I am still struggling to understand the difference between coding in the terminal and coding in Python or Rstudio.
 
 ### Bud
 
+I could also use HPC to run image-based models (histology slides) in my current research.
 
 ---
 
@@ -29,4 +31,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 25th, 11am**
