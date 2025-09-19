@@ -41,3 +41,6 @@ I need to create a Data Management Plan for my research to help us determine how
 > [!IMPORTANT]
 
 > **Due Thursday 18th, 11am**
+
+We discussed how the data that innvolves interviwing people about their feelings could be biased by the way the interviewer interprets the gestures and the feelings of the person interviewed. I personally dont work with data that interview people, but that was something that made me think about this aspect of bias in research.
+Another topic we discussed was how the institution/company funding the research can influence in whether the data gets public or not.
