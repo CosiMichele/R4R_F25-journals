@@ -22,7 +22,7 @@ Learning how to use scripts could be useful for managing files in my research pr
 
 > [!IMPORTANT]
 > **Due Monday 22nd, 11pm**
-
+I feel in my research, I can use Python to develop and train neural network models thatcan help me understand and predict biochar production outcomes. By feeding in experimental data, such as feedstock type, pyrolysis temperature, and residence time, the model should be able  predict biochar yield with reasonable accuracy. Beyond production, I  could also apply Python-based neural networks to assess how biochar  and fertilizers affects soil properties which are critical for evaluating biochar’s role in soil amelioration.
 
 ---
 
@@ -31,3 +31,6 @@ Learning how to use scripts could be useful for managing files in my research pr
 > [!IMPORTANT]
 
 > **Due Thursday 25th, 11am**
+> At our meetings, we engaged in tie and dye activities using various design techniques to explore textile patterning. While working on the designs, we held a reflective discussion on the growing challenges posed by climate change.  Some of the conversations emphasized that while scientific research on climate solutions is advancing, meaningful implementation may remain limited unless supported by enforceable policies and legal frameworks
+
+
