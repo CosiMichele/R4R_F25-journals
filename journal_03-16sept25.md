@@ -22,10 +22,12 @@ The primary additional potential application of the FOSS session's content I ide
 ---
 
 ## Research Application
-
 > [!IMPORTANT]
+ 
 > **Due Monday 22nd, 11pm**
+
 Many of the tools I use to generate/handle hydroclimate data require using the Linux/Unix environment for HPC, and shell commands like mkdir, mv, and cp to manage files and directories, and submit jobs. Building from this, the development of shell scripts for automation is critical for improving my workflow, as a script executes multiple commands in sequence in an automated way. This is essential for efficiently managing the complex workflows and large datasets from ensemble models.
+
 ---
 
 ## Cohort meetup discussion
@@ -35,4 +37,5 @@ Many of the tools I use to generate/handle hydroclimate data require using the L
 > **Due Thursday 25th, 11am**
 
 In this week’s meetup discussion, the conversation touched on topics related to data sharing practices, concerns, and experiences that cohort members have had with their mentors. A common theme that emerged was the lack of formal training in coding or data science — a point shared by all cohort members. It was also mentioned that graduate students can benefit from graduate programs that consider including data science, machine learning, and similar skills as part of their core curriculum. Additionally, there was interest in sharing information and exploring opportunities for collaboration among some of the participants.
+
 
