@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 24th, 11pm**
 
 ### Rose
-
+This was an interesting class. I got to learn why sometimes I get poor output from Copilot or ChatGPT. I learnt that I need to refine my requests. Also I learnt that I can use Copilot for much more that hwat I have been using it for.
 
 ### Thorn
 
-
+None
 ### Bud
-
+I am going to sign up for Claude. I have on some occasions gotten errors in SAS and when I ask ChatGPT, it gives me a wrong alternate code. Finally I have another platform to cross check
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 2nd, 11am**
