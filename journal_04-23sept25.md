@@ -8,14 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 24th, 11pm**
 
 ### Rose
-
+Good understanding on how to improve my requests in AI platforms. I learnt new platforms
 
 ### Thorn
 
 
 ### Bud
-
-
+I will sign up for Claude because I often get challenges with code errors in SAS and ChatGPT is at times not able to help me solve the issues
 ---
 
 ## Research Application
@@ -29,4 +28,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 2nd, 11am**
