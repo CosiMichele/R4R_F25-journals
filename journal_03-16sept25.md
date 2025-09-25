@@ -26,6 +26,7 @@ The session introduced me to concepts that could be highly beneficial for my res
 > [!IMPORTANT]
 > **Due Monday 22nd, 11pm**
 
+This week’s material was directly relevant to the stage I am at in my project with my minor advisor. Right now, we are focused on benchmarking existing models so that we can move toward developing our own. One of the most helpful takeaways was the idea of running models multiple times to establish robust comparisons. My advisor emphasized running each model 10 times, which I was able to implement through a shell script. After cloning the GitHub repository, I set up the script to repeatedly call the run.py file and output the evaluation metrics. This has been a major timesaver and has allowed me to start thinking more systematically about experimentation. Although I still find myself struggling with some Python details, I’ve become more comfortable with the process of “talking to computers” and setting up workflows that improve reproducibility. With more practice, I can already see my programming skills becoming stronger, and I now feel better equipped to manage the technical side of this project.
 
 ---
 
@@ -34,3 +35,5 @@ The session introduced me to concepts that could be highly beneficial for my res
 > [!IMPORTANT]
 
 > **Due Thursday 25th, 11am**
+
+I co-led this week’s cohort discussion with Lori. While we covered a variety of topics, one theme that stood out was how to bridge the gap between the methods we are learning in R4R and real-world research practice. We recognized that applying these ideas is not always entirely within our control. We often have to persuade our coauthors, including advisors and collaborators from other disciplines, to adopt new practices. The group agreed that this can be challenging, but we also discussed how, as we approach graduation, we will increasingly take responsibility for leading by example. Part of this may involve pushing our advisors or collaborators to improve, even if it requires negotiation and compromise. Overall, the discussion highlighted the importance of both technical skills and interpersonal dynamics in shaping how research practices evolve.
