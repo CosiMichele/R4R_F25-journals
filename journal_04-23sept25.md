@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 24th, 11pm**
 
 ### Rose
-
+Understanding how to structure prompts for clarity and specificity was immediately useful. For example, using role-based prompts helped refine my feedback from LLMs. Also knowing that there a site https://lmarena.ai/leaderboard I can check out the best LLMs for a particular task is a good one for me. I think I am now a prompt engineer.
 
 ### Thorn
-
+While LLMs are helpful with language, they sometimes struggle with hallucination, Which can be misleading sometimes. Hence, the solution I see to this is that human intelligence must be used along with artificial intelligence. That is the loop thing.
 
 ### Bud
-
+Using LLMs to generate preamble,abstract of experimental activities, published journals could streamline documentation and improve traceability and general productivity and more recognitions to details in journals. 
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 2nd, 11am**
