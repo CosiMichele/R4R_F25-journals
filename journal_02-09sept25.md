@@ -29,6 +29,7 @@ The DMP tool is the highly applicable tool in my field of research. The existing
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
-
+In this meetup we discussed about the open data, collaborative approaches where public health research uses methodologies using tools like photography to explore stories, we discussed the efficient ways of data securing process. I found this discussion an interesting one and learned a lot from the cohort. 
 > **Due Thursday 18th, 11am**
+
 
