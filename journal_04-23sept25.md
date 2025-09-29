@@ -26,6 +26,7 @@ I think I would definitely use LLMs at some point in my work, even for doubts. N
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
 
+LLMs are useful for my work, and I believe they are valuable for every researcher nowadays. I have come across many tools that can make tasks easier and the research process more bearable. I plan to use Claude, ResearchRabbit, Gemini, and ChatGPT more often to collect papers and to help answer questions that come up along the way.
 
 ---
 
@@ -34,3 +35,5 @@ I think I would definitely use LLMs at some point in my work, even for doubts. N
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
+During the cohort session, we talked mostly about AI. The main question was whether professors (assuming we were the professors) should promote or ban its use for the new generations. Personally, I believe we should make use of the tools available and take advantage of their benefits. We cannot remain clustered in the past. However, I also think we should first teach students to think critically, so they can use AI effectively without losing their human capacity for dissemination.
