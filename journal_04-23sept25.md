@@ -27,6 +27,7 @@ An initial application of LLMs in my research is to use them to generate and opt
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
 
+LLMs are applicable in my research in areas related to code generation, workflow optimization, and complex literature review. For example, I could use an LLM integration with VS Code to generate and optimize Python and R scripts that automate and optimize the pre- and post-processing of my model simulations. 
 
 ---
 
@@ -35,3 +36,7 @@ An initial application of LLMs in my research is to use them to generate and opt
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
+The most relevant topics for my research were those related to code generation and writing/literature. review. Tools that are helpful to increase efficiency in handling large simulation datasets. However, it's critical to always keep in mind that these benefits must still be supervised by humans. This oversight is essential to validate all LLM outputs and prevent bias or hallucinations from compromising the scientific integrity of the research, as well as to preserve my own critical thinking skills.
+
+
