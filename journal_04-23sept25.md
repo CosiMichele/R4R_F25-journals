@@ -22,7 +22,7 @@ What could potentially be applied to my work includes using structured prompts t
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
-
+In the last R4R session with Carlos Lizarraga, we explored the world of large language models (LLMs) and gained valuable insights into their development and usage. I learned about different strategies for effectively communicating with LLMs, which I found highly applicable to my research. I particularly appreciated learning about AI research assistants, as they can make work more efficient and streamlined. Tools such as AI workspaces, organizers, and assistants are also helpful for keeping researchers organized and up to date with tasks. Additionally, I found it insightful to learn how deep research AI models can support more in-depth investigations, while AI learning assistants help integrate complex concepts. The discussion on Model Context Protocol was especially useful in showing how AI can be customized to provide more accurate information and minimize hallucinations. Overall, the session offered important knowledge on using AI for both productivity and precision in research.
 
 ---
 
@@ -31,3 +31,4 @@ What could potentially be applied to my work includes using structured prompts t
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+In the cohort meeting, we discussed large language models (LLMs) in general and their role in academia. The conversation focused on how LLMs are influencing learning and shaping critical thinking among students. We explored approaches for using AI to maximize learning outcomes, emphasizing the importance of professors embracing these advancements, learning to use them, and preparing to teach students how to engage with them responsibly. We also noted two distinct groups in how people respond to AI—those who embrace, learn, and use the tools efficiently, and those who resist out of fear, reverting to traditional practices such as paper grading in an effort to discourage students from using AI.
