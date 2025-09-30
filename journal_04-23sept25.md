@@ -20,6 +20,7 @@ I was able to use ChatGPT to eventually find the .kfx files (THAT I HAVE PURCHAS
 
 ## Research Application
 
+Thursday's class was such an interesting deep dive into LLMs. Both Thursdays class and the meet-up convinced me that I should spend more time on Gemini and less time on ChatGPT. I am particularly interested in using Notebooklm. I am glad to know that Uof A students get 50 documents to upload. I'm also interested in the LLM Deep Research. I am currently experienmenting with various deep research tools to help me better understand constructivism in education and source papers that I can use to make my own dissertation more robust. I expect to use AI to help me research women in the workforce in the mid-20th century, the mid twentieth-century American middle class and the public funding of string programs. These tools are really perfect for tackling these large-scale ideas.
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
@@ -28,7 +29,9 @@ I was able to use ChatGPT to eventually find the .kfx files (THAT I HAVE PURCHAS
 ---
 
 ## Cohort meetup discussion
+I attended the meet-up this week and I learned from Lordes about how helpful Gemini has been, and it convinced me to spend my time working on it. In our meet-up discussion we talked about research and how the University system rewards positive results and punishes negative results, even though negative results are just as useful to the greater scientific community. We talked about p-hacking and wished for a system that supported the objectivity and neutrality that we are trained to embrace as researchers. 
 
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
