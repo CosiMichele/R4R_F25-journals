@@ -26,6 +26,7 @@ One exciting potential application I see is using LLMs as a time-saving tool for
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
 
+One practical takeaway for me was the mention of running LLMs locally, specifically using tools like Ollama. While this wasn’t the focus of the talk, it struck a chord with me. As a Ph.D. student, I travel frequently, whether it's flying to conferences or driving to meetings with collaborators and funding agencies, and during those times, I’ve realized how dependent I’ve become on LLMs for quick help, whether it’s debugging small programming errors or answering writing questions like when to use a colon versus a semicolon versus a comma. Having a lightweight LLM running locally, even if it’s not as powerful as something like ChatGPT online, would be incredibly useful for handling these smaller, day-to-day tasks when I'm offline or dealing with unreliable internet. This is something I’m planning to explore further and possibly integrate into my research workflow.
 
 ---
 
@@ -34,3 +35,5 @@ One exciting potential application I see is using LLMs as a time-saving tool for
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
+I was unable to attend the cohort meetup as I have a class on Thursday from 1–4, which overlapped with the 1:30 start time. I will follow up with the cohort to catch up on the discussion.
