@@ -9,14 +9,17 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ### Rose
 
-
+ GitHub is very useful for my work. I plan to take code from repositories and possibly contribute to a repository.
+ Also, use LLMs to answer any inquiry related to it. 
+ 
 ### Thorn
 
+I do not fully understand how to use GitHub yet. For me, it is not very user-friendly, and you can only learn to use it through hands-on experience and a trial-and-error process.
 
 ### Bud
 
-
----
+I could employ pretrained models for histology images, or even contribute my own code to the GitHub community for health risk assessments.
+ 
 
 ## Research Application
 
@@ -29,4 +32,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 9th, 11am**
