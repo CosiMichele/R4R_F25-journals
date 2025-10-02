@@ -8,14 +8,14 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 1st, 11pm**
 
 ### Rose
-
+What is applicable is the github main resiraportay because it will allow me to have a personalized place of work.
 
 ### Thorn
-
+Github would be challenging to apply to my research in general since I do not find a need for it.
 
 ### Bud
 
-
+The fact that I could have my own individualized place of work. 
 ---
 
 ## Research Application
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 9th, 11am**
