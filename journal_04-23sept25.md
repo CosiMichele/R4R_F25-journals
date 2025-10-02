@@ -6,6 +6,8 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 > [!IMPORTANT]
 > **Due Wednesday 24th, 11pm**
+>
+> Just to check
 
 ### Rose
 
@@ -29,4 +31,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 2nd, 11am**
