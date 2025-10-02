@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 1st, 11pm**
 
 ### Rose
-
+I think version control using GitHub would allow me to track changes in experimental protocols, technical documentation, and presentation materials, drafts of papers when I am in a collaborative work. So, it can help to track changes after adjustment. It can also serve as a storage center or center repository for our research materials or manuscripts.
 
 ### Thorn
-
+The majority of the effort will likely be required from the individual managing the merge process, particularly when multiple contributors edit the same section of a document. I think the solution is to assign sections to each person with no interference. I may be wrong but I am trying to get the whole ideas gradually.
 
 ### Bud
-
+This could be particularly useful in my research for co-authoring technical papers or grant proposals, as GitHub enables precise version control and seamless tracking of document revisions
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 9th, 11am**
