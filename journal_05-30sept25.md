@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 1st, 11pm**
 
 ### Rose
-
+On Tuesday (FOSS) session on Version Control, we were introduced to Git and GitHub as essential tools for managing and sharing code, which are directly applicable to my research. By implementing version control, I can maintain a detailed history of my analyses, enabling reproducibility and transparency, which are key principles in open science. Moreover, GitHub facilitates collaboration by allowing multiple researchers to contribute simultaneously, track changes, and resolve conflicts efficiently. This approach is particularly beneficial in Long COVID data analysis, where complex data analyses require meticulous documentation and teamwork. Additionally, the session emphasized best practices for organizing repositories and utilizing GitHub features like branching and pull requests, which are crucial for managing iterative research processes and ensuring the integrity of shared datasets and codebases.
 
 ### Thorn
-
+During the FOSS session on Version Control, I found some aspects of Git branching, merging, and resolving merge conflicts less intuitive. While I understand the basic concept of tracking changes, the practical application of multiple branches and integrating contributions from different collaborators seems complex. Also, ensuring that all changes are accurately tracked without overwriting important data, and coordinating with collaborators who may have varying levels of experience with Git, are areas I anticipate will require additional learning and practice.
 
 ### Bud
-
+One aspect of the FOSS session on Version Control that could be directly applied to my Long COVID research is the use of Git and GitHub for organizing and tracking analytical workflows. By creating well-structured repositories, I can document every step of my data cleaning, analysis, and visualization processes, which enhances reproducibility and transparency. Additionally, using features like version history, branching, and pull requests could help manage iterative analyses and collaborations with other researchers, ensuring that changes to scripts and datasets are carefully reviewed and tracked. This approach has the potential to streamline collaboration, reduce errors, and maintain a clear record of all analytical decisions in my research. Public health researchers, especially epidemiologists and biostatisticians, should be introduced to concepts of reproducibility and version control early in their degree programs so that they can effectively integrate these practices into their research from the outset.
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 9th, 11am**
