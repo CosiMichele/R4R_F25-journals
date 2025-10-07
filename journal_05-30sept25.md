@@ -22,7 +22,7 @@ One aspect of the FOSS session on Version Control that could be directly applied
 
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
-In our recent Roots for Resilience fellowship session, we spent part of the time and explored the role of large language models (LLMs) in academia, focusing on how professors and advisors perceive their use and the gap between student understanding and application. We discussed how advanced graduate students often use LLMs to enhance productivity, while undergraduates may rely on them without a solid foundation. The session emphasized the importance of faculty trust, responsible AI use, and the need for professors to embrace and teach these tools effectively. We also noted the divide between those who adopt AI confidently and those who resist it, highlighting the need for collaboration and education to bridge this gap in higher learning.
+In our recent Roots for Resilience fellowship session, we spent part of the time and explored the role of large language models (LLMs) in academia, focusing on how professors and advisors perceive their use and the gap between student understanding and application. We discussed how advanced graduate students often use LLMs to enhance productivity, while undergraduates may rely on them without a solid foundation. The session emphasized the importance of faculty trust, responsible AI use, and the need for professors to embrace and teach these tools effectively. We also noted the divide between those who adopt AI confidently and those who resist it, highlighting the need for collaboration and education to bridge this gap in higher learning. This discussion is very applicable to my research as there is still a lot to learn about AI application in public health research and the ethical use of AI when dealing with sensitive data.
 
 
 ---
@@ -33,5 +33,6 @@ In our recent Roots for Resilience fellowship session, we spent part of the time
 
 > **Due Thursday 9th, 11am**
 Unfortunately, I had a class scheduled during the last cohort meetup and was unable to attend. As a result, I’m unable to provide a report on the session’s discussion. I will, however, be available to attend and participate in the subsequent meetup sessions.
+
 
 
