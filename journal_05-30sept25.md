@@ -27,6 +27,7 @@ This session is going to be directly useful for my research. I'm currently worki
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
 
+I wasn’t able to attend last Thursday’s session, but I spoke with others in the cohort and reviewed their notes to understand the key ideas. From what I gathered, the discussion focused on how AI is being used across different fields. While I wasn’t part of the conversation, I strongly agree that AI makes data science more accessible and ultimately advances the field. I mentioned in my “Bud” from last week’s Rose-Bud-Thorn that I’ve been using GitHub more intentionally, and that familiarity has made it easier to implement benchmark time series forecasting models on a high-performance computer. I’ve realized that without AI tools, I’d feel a bit lost. AI can often interpret cryptic Python error messages and help debug issues much faster. Going forward, I plan to make my own repositories more accessible and think from the standpoint of a layperson.
 
 ---
 
@@ -35,3 +36,5 @@ This session is going to be directly useful for my research. I'm currently worki
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+
+I was unable to attend the cohort meetup, but I will follow up with the cohort to catch up on the discussion.
