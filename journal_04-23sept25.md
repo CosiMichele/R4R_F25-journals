@@ -23,6 +23,8 @@ I’m excited to explore how LLMs could support biomedical research in the futur
 ---
 
 ## Research Application
+This week’s session on large language models (LLMs) showed me how AI tools can support different parts of the research process, especially in biomedical engineering. I learned that LLMs can help with scientific writing, summarizing literature, and even explaining technical topics like biosignal processing or materials design in simpler terms. These tools can also help organize lab notes, generate ideas for experimental methods, and refine drafts for reports or presentations.
+For my research interests in biomedical device design and automation, I can apply LLMs to assist with writing research proposals, reviewing articles on medical sensors, and coding small simulations for signal data. However, I also learned that LLMs should be used carefully, they can generate errors or biases if the prompts or data aren’t checked. Moving forward, I plan to use LLMs as a supplementary research tool while keeping critical review and human verification at the center of my workflow.
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
@@ -35,5 +37,6 @@ I’m excited to explore how LLMs could support biomedical research in the futur
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
 
 
