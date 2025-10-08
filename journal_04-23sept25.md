@@ -7,7 +7,6 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 > **Due Wednesday 24th, 11pm**
 >
-> Just to check
 
 ### Rose
 
@@ -36,4 +35,5 @@ I’m excited to explore how LLMs could support biomedical research in the futur
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
 
