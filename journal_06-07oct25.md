@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 8th, 11pm**
 
 ### Rose
-
+During the FOSS session, I learned valuable techniques directly applicable to my research. The session emphasized the importance of reproducible scientific computing, highlighting tools like Conda for managing consistent software environments and sharing them with colleagues. Applying these principles ensures that my data analyses are consistent, reliable, and reproducible. Additionally, these skills facilitate seamless collaboration with other researchers and enable scalable analyses of large datasets, ultimately strengthening the credibility and impact of my research.
 
 ### Thorn
-
+While the FOSS session provided useful tools for reproducibility, I found some aspects challenging to fully grasp. For example, understanding how to manage and version software dependencies across multiple collaborators in a dynamic research environment could be difficult to implement consistently. Applying these advanced environment management techniques to ensure reproducibility without introducing workflow bottlenecks may require additional practice and guidance.
 
 ### Bud
-
+Several aspects of the FOSS session could be directly applied to my research. Using Conda to create and manage consistent software environments can ensure that my analyses are reproducible across different systems. Sharing these environments with collaborators would facilitate seamless teamwork and help others replicate my findings accurately. Additionally, documenting software versions and dependencies can improve transparency in my workflows, while the emphasis on reproducible scientific computing can guide the structuring of my analyses to maintain consistency and reliability, especially when handling large datasets. These tools should be introduced to public health researchers early on in their careers as it might be somewhat difficult for researchers who already implement these tools to effectively collaborate with others who are not familiar with them.
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 16th, 11am**
