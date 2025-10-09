@@ -22,7 +22,7 @@ This could be particularly useful in my research for co-authoring technical pape
 
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
-
+I learned that faculty and students view AI through different lenses. Students often embrace it for productivity and learning, while faculty emphasize ethical use and academic integrity especially older facualty member who dont want to embrace it. I also observed that trust, transparency, and clear guidelines are important to fostering responsible AI adoption.
 
 ---
 
@@ -31,3 +31,4 @@ This could be particularly useful in my research for co-authoring technical pape
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+> In today’s cohort meeting, we examined the persistent challenges researchers face in navigating the divide between open access publishing and subscription-based journals. We discussed how high publication fees, limited institutional support. Additionally, we reflected on the reluctance of major LLM companies to share their training data, noting that despite the rhetoric around open science, these firms prioritize proprietary control and monetization over transparency and collaboration.
