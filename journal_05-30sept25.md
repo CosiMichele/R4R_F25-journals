@@ -22,12 +22,14 @@ This got me excited to really do the framework deep dive I have been wanting to 
 
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
-
-
+After using the DMP tool to outline my data lifecycle, I realized the importance of establishing a reliable repository for my data. Following our last R4R meeting, I met with my advisor to discuss her vision for ideal data storage. Through our conversation, we discovered that GitHub offers more capabilities than she had initially realized. We agreed to maintain my data in three locations: a shared folder (most likely Box or Google Drive), a solid-state drive, and a GitHub repository. Given our discussion about open science and the FAIR and CARE principles of data management, GitHub seems like a logical fit for our third storage option.
 ---
 
 ## Cohort meetup discussion
+This week, Mehedi and I led our cohort meetup, and I really enjoyed the experience. We focused on specific questions about the application and use of GitHub. I’ve found that these cohort discussions create a relaxed environment where conversations feel natural and engaging. Hearing how different cohort members apply and utilize the concepts we’re learning in FOSS was especially helpful as I consider creative applications in my own work moving forward.
 
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+
+
