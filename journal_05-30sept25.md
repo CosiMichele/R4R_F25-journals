@@ -21,12 +21,15 @@ This has made me think more deeply about the needs and obsticles of working coll
 
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
+> I'm spending time thinking about if github would be a good fit for participants in a qualitative research study. Even in a private repository, is it anonomyous enough? Is the barrier of entry too high if a participant has never used github? What advantage would having information regarding versions be? 
 
 
 ---
 
 ## Cohort meetup discussion
+I learned about other people's research. We talked about the struggle of getting professors to buy-in to new tools. 
 
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+
