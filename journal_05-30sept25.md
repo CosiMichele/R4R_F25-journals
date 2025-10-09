@@ -26,11 +26,11 @@ I could employ pretrained models for histology images, or even contribute my own
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
 
-
----
+I will use GitHub for coding purposes in my project. I don’t think I’ll use Git since it seems more complicated than GitHub.
 
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+
