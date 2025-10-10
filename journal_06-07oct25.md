@@ -21,7 +21,7 @@ In engineering, we commonly use P, PI, and PID controllers to regulate automatio
 
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
-
+Like i said earlier engineers often rely on control systems like P, PI, and PID to manage automation tasks. By embedding programmable logic into these systems, I think it is possible to optimize how they interact with digital environments, especially when coordinating complex, software-driven workflows. i think this is where the application could come in(if needed) when it comes to my researcvh
 
 ---
 
@@ -30,3 +30,4 @@ In engineering, we commonly use P, PI, and PID controllers to regulate automatio
 > [!IMPORTANT]
 
 > **Due Thursday 16th, 11am**
+Today's discussion explored the ethical and practical dimensions of software use in academia, especially the reliance on cracked tools due to financial constraints and monopolistic pricing, which sparked debate over access versus developer rights. Participants contrasted proprietary models like Stata with open-source alternatives such as R and Python, noting how freemium tools often fail in low-connectivity regions. Reproducibility emerged as a main concern, with Conda highlighted for managing software environments and ensuring stable research outputs. Pedagogical practices were critiqued for favoring familiar proprietary tools over accessible ones, prompting calls for asset-based teaching that values students’ resourcefulness. A generational shift toward open tools was evident, driven by cost, transparency, and community empowerment. The conversation concluded with a wish for integrated platforms and diverse programming fluency to simplify workflows and enhance research resilience
