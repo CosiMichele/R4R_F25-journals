@@ -33,4 +33,6 @@ I will use GitHub for coding purposes in my project. I don’t think I’ll use 
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+>
+During the meetup we talked about publishing a paper, we went over how expensive it can be to pay the fees for open-access journals (a couple thousand dollars). I discovered that when you publish a paper, sometimes they actually require your code (which is why it’s so important to stay organized on that!). We also talked about how some big AI software that currently have a “premium” package might eventually become free for everyone, which I thought was really interesting. It was fun, and I got valuable info that I didn’t know before.
 
