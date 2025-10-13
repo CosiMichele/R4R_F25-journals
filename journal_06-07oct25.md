@@ -26,11 +26,13 @@ One potential takeaway for my work is improving reproducible scientific computin
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
 
+Although I was attending a conference during the R4R Thursday session, I discussed the material with another student who participated. The discussion on software environments was particularly relevant to my work. I have recently started using Conda, which has made managing my projects much easier. For example, I was able to download a GitHub repository and run it on my own data quickly. There was a minor challenge because the repository used a version of PyTorch that was incompatible with the Python version specified, but by following the README instructions and leveraging some AI resources, I was able to resolve it without much difficulty.
 
 ---
 
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
-
 > **Due Thursday 16th, 11am**
+
+I was also at a conference during the cohort meetup.
