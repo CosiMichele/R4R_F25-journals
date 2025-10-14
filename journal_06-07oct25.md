@@ -25,6 +25,7 @@ Implementing more environments and sharing them is something I definitely plan t
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
 
+The usage of Python virtual environments applies to my work to keep the workflow efficient for the statistical analysis of my results. Similarly, isolating different packages during the pre-processing stage of WRF simulation results helps me avoid conflicts between different versions of the software. Also, the procedure seen in class of exporting work environments is applicable when I need to share code with colleagues to ensure its adequate performance and reproducibility.
 
 ---
 
@@ -33,3 +34,6 @@ Implementing more environments and sharing them is something I definitely plan t
 > [!IMPORTANT]
 
 > **Due Thursday 16th, 11am**
+
+The main topics mentioned during the cohort meeting that apply to my research are about open-source tools, which are relevant for open science practices because they rely on community development. In contrast, paid software offers limited access and encourages monopolistic practices. An example of this is the use of MATLAB versus Python, which is highly relevant to my research field. Another topic mentioned is that younger researchers increasingly adapt their methodologies to use open-source tools to avoid costly systems that are hard to implement in countries with limited funding for research.
+
