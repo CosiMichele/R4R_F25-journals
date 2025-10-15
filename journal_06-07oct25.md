@@ -25,9 +25,10 @@ I will use this in my analysis for the aim that I am working on. I am exploring 
 
 
 ---
-
+We discussed about the software environment and how we all understood the class. We discussed applicability in our different researches and how that eases the work especially when one has to go back to the code in future. We had another discussion about pirated software and though it has a downside, students in low-resource settings have no opportunity to purchase the expensive software. We also discussed about universities availing software to students especially where there is no opportunity for free software
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
 
 > **Due Thursday 16th, 11am**
+
