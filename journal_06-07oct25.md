@@ -33,4 +33,6 @@ Last week during the Roots for Resilience fellowship, we assessed specific indiv
 > [!IMPORTANT]
 
 > **Due Thursday 16th, 11am**
+At the cohort meetup last week, we discussed the widespread use of pirated “crack” versions of programming software and the reasons behind it, particularly in low- and middle-income countries (LMICs) where research funding is limited. One of the key factors identified was the high cost of paid software like STATA and SAS. To address this, we emphasized the importance of creating awareness and providing training on free and open-source tools such as R and Python, which can serve as powerful alternatives. We also discussed the need for institutional and organizational funding to make legitimate software more accessible in LMICs, thereby reducing inequities and bias in research. Additionally, we explored how software environments can be applied to our individual research projects to enhance reproducibility, security, and collaboration.
+
 
