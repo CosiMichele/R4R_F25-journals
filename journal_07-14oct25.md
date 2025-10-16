@@ -7,15 +7,16 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 > **Due Wednesday 15th, 11pm**
 
-### Rose
+### Rose 
 
+I can see the importance of containers and their use in research in the humanities. It would allow me to revisit my own process, share with collaborators, and keep my project accessible regardless of updating software. The container would basically be an "interperative environment" that features any software I used to assist in reaching conclusions, and that makes the reproducibility aspect of it extremely valuable.  
 
 ### Thorn
-
+The computer skills still feel like a reach for me, however, not insurmountable with these courses and the support of LLMs. 
 
 ### Bud
 
-
+The more I search for AI software that does qualitative research the more I find. The truth is, AI is really good at language and as I get my AI usage off the ground in my research, I can see why it makes incredible sense to use containers to preserve my research process. 
 ---
 
 ## Research Application
@@ -29,4 +30,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
