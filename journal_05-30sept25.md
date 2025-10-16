@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 1st, 11pm**
 
 ### Rose
-
+I love all of the content covered in this class. It was really helpfull. I think version control is a gamechanger for collaborative research work specially in data analysis and coding in risk assessment modeling. 
 
 ### Thorn
-
+Nothing 
 
 ### Bud
-
+I find it interesting to have a github window in R studio. I think i will be using it a lot in my research for version control while coding. 
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 9th, 11am**

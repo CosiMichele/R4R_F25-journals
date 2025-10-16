@@ -22,7 +22,7 @@ I am not a coder, however, with the help of LLM I can learn, debugging, and appl
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
-
+I think LLM is the new phase of cutting adge research. Due to it's availability and usefullness almost everyone is using LLM at their work. However, this can be a necessary evil, if not use responsibly. Training like this is quite helpful to understand proper prompting, reducing errors and more effecient use of LLM specially in human subject research. I will definetely use several LLM in my research projects while searching for quick explanation, debugging code for data analysis, developing mind map, etc.  
 
 ---
 
@@ -31,3 +31,4 @@ I am not a coder, however, with the help of LLM I can learn, debugging, and appl
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
