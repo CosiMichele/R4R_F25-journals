@@ -21,7 +21,9 @@ Several aspects of the FOSS session could be directly applied to my research. Us
 ## Research Application
 
 > [!IMPORTANT]
-> **Due Monday 8th, 11pm**
+> **Due Monday 13th, 11pm**
+Last week during the Roots for Resilience fellowship, we assessed specific individual research applications of software environments. In my research, software environments offer a practical and secure way to work with sensitive, HIPAA-compliant data. Instead of downloading the data onto my personal, non-HIPAA-protected computer, I can upload it into the University of Arizona’s Soteria system, which has a HIPAA-compliant high-performance computing (HPC) environment. This allows me to perform my analyses in R securely within the HPC, manage and save my R packages using renv and then share my analysis codes on GitHub without exposing any protected data. I can also download the protected data directly into the HPC, conduct my analyses, and save the results securely. This approach ensures that my Long COVID research is both secure and reproducible, aligning with best practices for handling sensitive health data.
+
 
 
 ---
@@ -31,3 +33,6 @@ Several aspects of the FOSS session could be directly applied to my research. Us
 > [!IMPORTANT]
 
 > **Due Thursday 16th, 11am**
+At the cohort meetup last week, we discussed the widespread use of pirated “crack” versions of programming software and the reasons behind it, particularly in low- and middle-income countries (LMICs) where research funding is limited. One of the key factors identified was the high cost of paid software like STATA and SAS. To address this, we emphasized the importance of creating awareness and providing training on free and open-source tools such as R and Python, which can serve as powerful alternatives. We also discussed the need for institutional and organizational funding to make legitimate software more accessible in LMICs, thereby reducing inequities and bias in research. Additionally, we explored how software environments can be applied to our individual research projects to enhance reproducibility, security, and collaboration.
+
+
