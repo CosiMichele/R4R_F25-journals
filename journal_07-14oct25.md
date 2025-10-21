@@ -27,6 +27,7 @@ For running weather and streamflow simulations, as well as for the statistical a
 > **Due Monday 20th, 11pm**
 
 I can implement the use of containers for running weather simulations with the same version of the model on different computers, as well as for running the code/workflow I have for the analysis of extreme hydroclimatic events that require the test of many datasets. Additionally, for another project of analysis of extremes, I can share the scripts with all the packages/libraries needed to run them :)
+
 ---
 
 ## Cohort meetup discussion
@@ -34,4 +35,5 @@ I can implement the use of containers for running weather simulations with the s
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
 
