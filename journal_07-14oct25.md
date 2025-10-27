@@ -20,6 +20,8 @@ The more I search for AI software that does qualitative research the more I find
 ---
 
 ## Research Application
+I am going to be using AI to transcribe some interviews for me that are on YouTube. Additionally, I'll be using it to help with analyzing some cello treatises for themes of constructivism. I can use a container to save the versions of software I use and their dependencies. 
+
 
 > [!IMPORTANT]
 > **Due Monday 13th, 11pm**
@@ -28,7 +30,9 @@ The more I search for AI software that does qualitative research the more I find
 ---
 
 ## Cohort meetup discussion
+I was unable to attend this week.
 
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
