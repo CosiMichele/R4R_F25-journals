@@ -22,12 +22,14 @@ I believe that containerization is an enabler of open science and reproducibilit
 
 > [!IMPORTANT]
 > **Due Monday 13th, 11pm**
-
+Again, as I said earlier, containerization plays a pivotal role in advancing open science and reproducibility within biochar research. As the landscape of tools for modeling soil-carbon dynamics and validating carbon credits continues to expand, containers provide a scalable framework for managing and reproducible codes. I am not currently doing this in my research now. Maybe later down the line.
 
 ---
 
 ## Cohort meetup discussion
 
+During our cohort discussion, we emphasized how the FOSS and Root for Resilience program equips researchers with open-source tools and collaborative frameworks that foster long-term adaptability. By lowering barriers to participation and enhancing digital literacy, the initiative creates pathways for future academic, professional, and community-driven opportunities, especially in this constantly changing world of ours.
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
