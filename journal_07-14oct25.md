@@ -26,6 +26,7 @@ I can see potential in using containers or Docker for final, production-ready ve
 > [!IMPORTANT]
 > **Due Monday 13th, 11pm**
 
+During the session on containers (mainly Docker), I learned more about how containerization can improve reproducibility and portability in research workflows. I primarily use Conda environments for managing dependencies, but I can see how Docker could simplify sharing and reproducing results across different systems. While Docker seems particularly well-suited for data science applications, I think there’s untapped potential in using it within engineering research, especially for packaging simulation pipelines. The main challenge for me right now is that Docker still feels fairly advanced, and I haven’t yet found the exact use case where it would provide a clear advantage over my current setup. However, I’m interested in exploring it further as my projects grow more computationally complex.
 
 ---
 
@@ -34,3 +35,5 @@ I can see potential in using containers or Docker for final, production-ready ve
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
+I wasn’t able to attend the cohort meetup because it takes place on Thursdays, which conflict with my schedule. However, I asked others about what was discussed and learned that the conversation also focused on containers. From what I heard, there was an interesting discussion about how engineers and data scientists approach system design differently. Engineers often have physical or regulatory constraints, while backend or data-oriented design can be optimized for accessibility and simplicity. I thought this aligned well with my own reflections on how engineering research can adopt more practices from data science and computer science to streamline workflows.
