@@ -26,6 +26,7 @@ I’m interested in testing the UA HPC’s performance, especially for running s
 > [!IMPORTANT]
 > **Due Monday 20th, 11pm**
 
+The material on copyright, patenting, and licensing this week was highly relevant to my work, especially the discussions around patents and licensing practices. I often hear companies at conferences talking about their proprietary software or models, and sometimes it feels like my research overlaps with theirs. This made me realize the importance of protecting my own work through patents and understanding licensing, especially with resources like Tech Launch Arizona. I hadn't fully considered these avenues before, but now I see how essential they are for turning research into real-world applications. The copyright section was useful but felt more like standard knowledge that students across all fields show know. The deeper focus on patents was something I hadn’t thought about much and gave me new insights into how to navigate the intersection of my own research and industry. Overall, the material has definitely made me think more strategically about protecting my intellectual property and considering how to commercialize my work.
 
 ---
 
@@ -34,3 +35,5 @@ I’m interested in testing the UA HPC’s performance, especially for running s
 > [!IMPORTANT]
 
 > **Due Thursday 30th, 11am**
+
+There are no more cohort meetups.
