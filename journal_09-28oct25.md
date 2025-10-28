@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 29th, 11pm**
 
 ### Rose
-
+Using CyVerse is directly applicable to my research because I use a series of CyVerse apps to process data files such as pcaps. This helps by using tools that are not widely available and also use some of the remote processing computing to process large files. 
 
 ### Thorn
-
+Making and uploading my own containers, using Ollama, using anything related to R studio. I dont see a directly application of that to my research. 
 
 ### Bud
-
+Using GPU power to process bigger files through CyVerse. Or to make the processes much faster. 
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 6th, 11am**
