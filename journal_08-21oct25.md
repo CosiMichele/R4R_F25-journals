@@ -11,19 +11,19 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 I found the overview of the high-performance computing (HPC) environment very helpful: the section “A 10,000 ft View of the HPC” gave a clear explanation of how cluster systems are organised and how user access works. 
 Learning about how the workload manager SLURM works (job queues, resources, partitions) directly connects with the kind of batch analysis tasks I anticipate in BME lab work (e.g., processing large imaging datasets). 
-The explanation of using Apptainer (formerly Singularity) for containerised execution on HPC was particularly relevant — as in my lab we often struggle with software version conflicts, and seeing that Apptainer allows rootless containers is a relief.
+The explanation of using Apptainer (formerly Singularity) for containerised execution on HPC was particularly relevant, as in my lab we often struggle with software version conflicts, and seeing that Apptainer allows rootless containers is a relief.
 
 ### Thorn
 
 Some of the instructions assume familiarity with Linux terminal commands, modules, job-submission scripts, and cluster operations. As someone whose background is more in biomedical applications than computational systems, I felt slow getting up to speed on commands like sbatch, squeue, module load, etc.
-The distinction between interactive node usage versus batch job submission, and when to pick which, wasn’t fully intuitive to me yet—especially how it relates to our typical lab workflows (data acquisition vs post-processing).
+The distinction between interactive node usage versus batch job submission, and when to pick which, wasn’t fully intuitive to me yet, especially how it relates to our typical lab workflows (data acquisition vs post-processing).
 While the material mentions storage quotas (home folder, group folder, large research disk) and queue times, I worry about how realistic the wait-times will be for my BME data workflows (for example, if I need to run a heavy simulation or imaging pipeline) and whether I’ll be able to anticipate resource bottlenecks ahead of time.
 
 ### Bud
 
 I want to try submitting a small interactive job on the HPC to test how it works firsthand, for example launching an interactive node with modest resources to run a MATLAB or Python-based signal-processing script from our lab.
 I’m interested in containerising one of our imaging-analysis pipelines (for example, a Python-OpenCV or imageJ workflow) using Apptainer and running it on the HPC, thereby integrating reproducibility with the computing power of the cluster.
-I hope to document a “cheat sheet” of the key commands (login, module, job submission, resource checking) tailored to BME lab tasks — this could help my lab-mates (many of whom are less computational) adopt HPC tools more confidently.
+I hope to document a “cheat sheet” of the key commands (login, module, job submission, resource checking) tailored to BME lab tasks, this could help my lab-mates (many of whom are less computational) adopt HPC tools more confidently.
 
 ---
 
@@ -56,3 +56,4 @@ Archive the Apptainer .sif image and the SLURM script as part of my lab report a
 > [!IMPORTANT]
 
 > **Due Thursday 30th, 11am**
+
