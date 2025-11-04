@@ -25,6 +25,7 @@ The most direct application I can think of is the use of data commons to store d
 > [!IMPORTANT]
 > **Due Monday 27th, 11pm**
 
+While the general HPC functions are an alternative to my current toolset, the material contains useful resources. Specifically, the DE-VICE tool could be valuable for quickly accessing new packages, software, and libraries necessary for data analysis. I plan to explore Data Commons as an alternative to re-data for the long-term storage and curation of data required for journal publication
 
 ---
 
@@ -33,3 +34,4 @@ The most direct application I can think of is the use of data commons to store d
 > [!IMPORTANT]
 
 > **Due Thursday 6th, 11am**
+
