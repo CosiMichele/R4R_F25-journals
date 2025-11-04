@@ -24,7 +24,7 @@ This could apply several aspects of the CyVerse remote computing tools to my res
 
 > [!IMPORTANT]
 > **Due Monday 27th, 11pm**
-
+In the last Roots for Resilience fellowship, we discussed drone mapping and it was interesting to learn how drones can be used to capture aerial data for creating maps and 3D models.
 
 ---
 
@@ -33,4 +33,5 @@ This could apply several aspects of the CyVerse remote computing tools to my res
 > [!IMPORTANT]
 
 > **Due Thursday 6th, 11am**
+
 
