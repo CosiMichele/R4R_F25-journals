@@ -33,5 +33,7 @@ In the last Roots for Resilience fellowship, we discussed drone mapping and it w
 > [!IMPORTANT]
 
 > **Due Thursday 6th, 11am**
+Not applicable - no cohort meetup for the week.
+
 
 
