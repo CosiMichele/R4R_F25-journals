@@ -7,28 +7,19 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
 
-### Rose
+### Rose 
+In general, it's great to learn about open science principles. They align with principles of social justice because they work towards transparency and access. Additionally, we are learning about github and ways to collaborate that allows us to consider ideas while keeping intergity. 
 
-We are applying Open Science to our research papers produced by my lab group. Our advisor includes the payment for the publication of the paper to ensure it is open access.
-  
-The Open Methodology, through documenting everything in a GitHub repository, is something I have been using to consolidate all the results and analysis of our data, clearly outlining the procedure used to arrive at the conclusions we reached.
-
-
-### Thorn
-
-Something my research lacks is a way to get the information to the stakeholders (community members of the affected areas close to mine tailings). I think it is not enough to publish data in open-access journals, as the community members are often people with low incomes, the elderly, or those who could not attend school, making it hard for them to access this kind of information.
-
-Another factor we need to improve is our version control system, as we currently use regular Word documents, but we should enhance our system.
-
+### Thorn 
+Many of these skills are very new to me! Though I appreciate that we are getting guidance and practice with github. 
 
 ### Bud
-
-I liked the FAIR approach, as it reminds us of all the factors that need to be applied for the research to be considered really as an open-access source for people.
-As I mentioned in the previous paragraph, the version control system can be the next step to improve our research documents.
+I love that on Thursday we got to learn from both an expert and eachother, while we talked about our different needs and approaches to research. I found our guest to be fascinating to listen to whether the specific topic he was speaking on was applicapable to me or not. It felt like an enriching discussion as I learn many things that are new to me.
 
 ---
 
 ## Research Application
+The recommended resource notebooklm is something that I look forward to applying to my own research and I do anticipate using it. I will see what it can do with data from the North American Schools of Music (an accredidation agency, which does accredit U of A's school of music) and potentially some government documents regarding the funding of string programs in public schools. 
 
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**

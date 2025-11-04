@@ -8,21 +8,15 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 10th, 11pm**
 
 ### Rose
-
-Our research uses box to store data for all the researchers involved. I personally have another folder with all the laboratory techniques and devided by dat whic has allowed me to find the data when I need it easily.
-
-Another aspect of my research project is two GitHub repositories I have created to organize my results, as well as my standard operating procedures. This way, if I need that information, I have it accessible 24/7.
-
+Even though my "data" looks different than most people, I take to heart the lessons about data integrity, data storage, and data retrival. It's not lost on me how important those things are to not just doing research well but productivity. It takes longer when data is harder to find or may have issues, and I want to be a productive researcher.
 
 ### Thorn
+I feel like a "researcher" but not a "scientist." Sometimes my data is a number. I can use numbers when I'm describing how women entered the workforce as teachers of children while men were able to be professors. But the reason why is not a number, it's a social invention. 
 
-A thorn in my project is that we haven't created a Data Management Plan, meaning each researcher organizes their data independently, and we haven't compiled it into a cohesive document that explains its contents.
+At the core of my research is positivism vs. constructivism. Positivism argues for an objective reality and often makes sense in hard sciences. But constructivism argues that our perception is our reality and meaning and knowledge are created, which is sometimes more difficult to quantify.
 
 ### Bud
-
-One thing we want to implement is an open-access data repository where users can simply sign in and download the data, even after the project is completed.
-
-Another factor we need to apply is the Data Management Plan.
+The organization of data and the searchability are most meaningful to my research at this point. I'm especially learning how important it is to be able to find my own annotations so that I can handle large swaths of information and recall what I need to make the points I need to make when I'm writing the document! Zotero has been helpful for that, but I'm struggling with the Zotero / Kindle lack of connection.
 
 ---
 
