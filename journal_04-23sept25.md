@@ -8,12 +8,18 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 24th, 11pm**
 
 ### Rose
+nothing is really applicable to my research at this point.
+
 
 
 ### Thorn
+The concept does of llM does apply to my research but I wont be working on that part.
+
 
 
 ### Bud
+
+At this time - none of it.
 
 
 ---
@@ -22,11 +28,12 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
-
+Not applicable at this time.
 
 ---
 
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 2nd, 11am**

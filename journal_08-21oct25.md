@@ -8,18 +8,24 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 22nd, 11pm**
 
 ### Rose
+Saving the databases in a larger model and computer basics.
+
 
 
 ### Thorn
+Most of it at this point because it is in the beginning stages.
+
 
 
 ### Bud
+Saving the databases.
+
 
 
 ---
 
 ## Research Application
-
+Not applicable at this time.
 > [!IMPORTANT]
 > **Due Monday 20th, 11pm**
 
@@ -29,4 +35,6 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 30th, 11am**
+

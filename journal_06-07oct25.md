@@ -8,14 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 8th, 11pm**
 
 ### Rose
-
+Open source basics is applicable.
 
 ### Thorn
-
-
+Not at this time.
 ### Bud
 
-
+Open source is applicable but only the basics
 ---
 
 ## Research Application
@@ -29,4 +28,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 16th, 11am**

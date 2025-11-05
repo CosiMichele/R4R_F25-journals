@@ -8,18 +8,18 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 29th, 11pm**
 
 ### Rose
-
+LLm and open source with data saving.
 
 ### Thorn
-
+Most of it since my research is in the early stages. 
 
 ### Bud
-
+None of it at this time.
 
 ---
 
 ## Research Application
-
+Not applicable to my research.
 > [!IMPORTANT]
 > **Due Monday 27th, 11pm**
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 6th, 11am**

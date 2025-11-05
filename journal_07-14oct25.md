@@ -8,18 +8,17 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 15th, 11pm**
 
 ### Rose
-
+Data saving information is applicable. 
 
 ### Thorn
-
-
+Open source with data saving. 
 ### Bud
-
+Not at this time.
 
 ---
 
 ## Research Application
-
+Not applicable at this time.
 > [!IMPORTANT]
 > **Due Monday 13th, 11pm**
 
@@ -29,4 +28,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
