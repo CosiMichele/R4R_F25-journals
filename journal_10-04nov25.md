@@ -9,12 +9,15 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 
 ### Rose
 
+The discussion about MCPs stood out to me. From what I understand, MCPs allow LLMs, or more broadly, AI systems, to interact directly with APIs, which can greatly extend their functionality. I found the idea of AI not only writing code but also evaluating and debugging itself particularly interesting. This kind of self-contained development workflow feels like it could make research programming and automation more efficient.
 
 ### Thorn
 
+While I like the idea of MCPs, they still feel somewhat abstract and niche to me. I’m not entirely sure when or how I’d need to use them in my own work. The biggest technical hurdle I faced was trying to get Claude Code authorized. It repeatedly asked me to sign in and authorize, but the process never completed successfully. So, even though the concept makes sense, actually setting it up has been frustrating.
 
 ### Bud
 
+I can definitely see the potential for tools like Claude Code to streamline the early stages of research projects. For instance, automating setup tasks like generating READMEs, creating directories, and establishing a reproducible project structure would save a lot of time. Tyson’s demo of using Claude to organize everything from the start was a good example of how powerful these tools could be in practice. My goal is to get Claude Code running reliably so I can start experimenting with it in my own project setup.
 
 ---
 
@@ -29,4 +32,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
