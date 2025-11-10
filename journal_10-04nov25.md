@@ -26,6 +26,9 @@ I can definitely see the potential for tools like Claude Code to streamline the 
 > [!IMPORTANT]
 > **Due Monday 3rd, 11pm**
 
+The continued discussion on Claude Code this week was incredibly engaging. I especially appreciated that Tyson joined us to help troubleshoot the setup process and guide us through creating our own personal development environments. That conversation was very relevant for many of us who are graduating soon and beginning to think about setting up our professional workstations. Tyson made several great points about how most companies provide computers with strong processing power, which helps take some pressure off deciding what to purchase personally. I’ve been debating between a Mac and a Windows setup and how powerful my next computer needs to be, and after this discussion, I feel much more confident in my decision-making process.
+
+Regarding Claude Code, unfortunately, we weren’t able to resolve my authentication issue. Although it was a little frustrating, I was relieved to see that even Tyson ran into similar challenges. It made me feel better about struggling with authentication when attempting the homework myself. When that didn’t work, we shifted to discussing Copilot and Cline, which turned out to be a really helpful comparison. I realized I still have room to improve my prompt engineering skills, but I really enjoyed seeing how these tools streamline coding and eliminate the need for constant copying and pasting between tools
 
 ---
 
@@ -34,3 +37,4 @@ I can definitely see the potential for tools like Claude Code to streamline the 
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
