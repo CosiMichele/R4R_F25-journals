@@ -22,7 +22,8 @@ Knowing about resources and how they work is a form of liberation, and I'm still
 
 > [!IMPORTANT]
 > **Due Monday 20th, 11pm**
-
+>
+> If I ever find myself needing to do a computer task with a large amount of data, I at leat have the foundational skills to get started using the HPC, and I don't think it can be understated how important and empowering that is.
 
 ---
 
@@ -31,3 +32,5 @@ Knowing about resources and how they work is a form of liberation, and I'm still
 > [!IMPORTANT]
 
 > **Due Thursday 30th, 11am**
+> I was unable to attend the last discussion, since it was during my cello studio class. 
+
