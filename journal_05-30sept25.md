@@ -24,6 +24,7 @@ There is potential to use Git and GitHub to document and track different version
 > [!IMPORTANT]
 > **Due Monday 6th, 11pm**
 
+**Use Markdown files (ideally including a README.md to add structure) to document and track my research workflow for all projects, focusing on scripts and sections related to the analysis of the results. **
 
 ---
 
@@ -32,3 +33,5 @@ There is potential to use Git and GitHub to document and track different version
 > [!IMPORTANT]
 
 > **Due Thursday 9th, 11am**
+
+For this week's Cohort meetup, the relevant topic to my research was related to everyone's experience in how data and scripts are shared for journals in different fields. We also discussed everyone's experience publishing in journals, and whether there are options provided by the university that support or help out with the fees for publication.
